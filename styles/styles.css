@@ -1,0 +1,156 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	
+	
+}
+
+.html{
+	font-size: 48px;
+	font-weight: 700;
+	color: #30CBC2;
+	padding: 54px;
+	family-font:open-sans;
+	display: inline-block;
+	
+
+}
+
+ul{
+	list-style-type: none;
+}
+
+.links{
+	display:inline-block;
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+	padding-right: 81px;
+	text-decoration: none;
+	
+
+
+}
+
+li{
+	display:inline-block;
+}
+
+header{
+	display: inline-block;
+}
+
+nav{
+	display: inline-block;
+}
+
+
+.cifrebi{
+
+font-size: 24px;
+font-weight: 400;
+padding: 10px;
+color: #84FF81;
+background-color: #5012D5;
+display:inline-block;
+margin-left: 52px;
+margin-bottom: 30px;
+}
+
+
+.maisi{
+
+font-size: 24px;
+font-weight: 400;
+color: #8D81FF;
+margin-left: 52px;
+margin-bottom: 35px;
+font-family: "BPG Nostalgia", sans-serif;
+}
+
+.satauri{
+font-size: 20px;
+font-weight: 700;
+color: #4E6FAE;
+margin-left: 52px;
+font-family: "BPG Nostalgia", sans-serif;
+}
+
+.surati{
+	margin-left: 52px;
+	margin-top: 30px;
+	vertical-align: top;
+}
+
+.teqsti{
+
+font-size: 16px;
+font-weight: 400;
+color: #4E6FAE;
+display: inline-block;
+margin-left: 90px;
+margin-top: 30px;
+box-sizing: border-box;
+width: 900px;
+height: 281px ;
+margin-right: 97px;
+font-family: "BPG Square", sans-serif;
+
+}
+
+div{
+	display: flex;
+}
+
+#gverdi{
+	color: #4E6FAE;
+	display:inline-block;
+	font-size: 26px;
+	font-weight: 700;
+	padding-right: 81px;
+	text-decoration: none;
+}
+
+#teqsti-2{
+	font-size: 16px;
+font-weight: 400;
+color: #4E6FAE;
+display: block;
+margin-left: 52px;
+margin-top: 30px;
+box-sizing: border-box;
+width: 900px;
+height: 281px ;
+margin-right: 97px;
+font-family: "BPG Square", sans-serif;
+
+
+
+}
+
+
+#facebook{
+	width: 50px;
+height: 50px;
+margin-left: 52px;
+
+
+}
+
+#youtube{
+	width: 71px;
+height: 49px;
+
+
+}
+
+
+#xazi{
+	width: 2px;
+	height: 50px;
+	background-color: #5012D5;
+	display: inline-block;
+	margin: 0px 50px;
+}
