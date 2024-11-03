@@ -1,0 +1,220 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	
+	
+}
+
+.html{
+	font-size: 48px;
+	font-weight: 700;
+	color: #30CBC2;
+	padding: 54px;
+	display: inline-block;
+	margin-right: 60px;
+	
+	
+
+}
+
+header{
+	margin-left: 600px;
+}
+
+
+
+ul{
+	list-style-type: none;
+}
+
+.links{
+	display:inline-block;
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+	padding-right: 81px;
+	text-decoration: none;
+
+
+}
+
+li{
+	display:inline-block;
+}
+
+header{
+	display: inline-block;
+}
+
+nav{
+	display: inline-block;
+}
+
+#gverdi{
+	color: #4E6FAE;
+	display:inline-block;
+	font-size: 26px;
+	font-weight: 700;
+	padding-right: 81px;
+	text-decoration: none;
+}
+
+#sawiro{
+	margin: 0 auto;
+    display: block;
+    margin-bottom: 120px;
+    margin-top: 97px;
+
+}
+
+#satauri1{
+
+	
+font-size: 26px;
+font-weight: 700;
+margin-left: 0px;
+display: inline-block;
+color: #4E6FAE;
+
+}
+
+#satauri2{
+font-size: 26px;
+font-weight: 200;
+display: inline-block;
+color: #4E6FAE;
+}
+
+
+
+#div5{
+	
+	margin: 0 auto;
+	width: 1052px;
+	margin-bottom: 26px;
+
+
+}
+
+
+#xazi{
+	width: 2px;
+	height: 25px;
+	background-color: #5012D5;
+	display: inline-block;
+	margin: 0px 12px 0px 17px;
+}
+
+
+
+
+
+
+#xazi1{
+	width: 2px;
+	height: 50px;
+	background-color: #5012D5;
+	display: inline-block;
+	margin: 0px 50px;
+}
+
+
+
+#main{
+	margin: 0 auto;
+	display: flex;
+    width: 1050px;
+    height: 200px;
+    column-gap: 54px;
+    display: flex;
+
+    
+    
+
+    
+
+	
+}
+
+.lupa{
+	width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    display: inline-block;
+    box-sizing: border-box;
+
+    
+
+
+  
+}
+
+
+.teqsti{
+font-size: 16px;
+font-weight: 400;
+color: #7E8898;
+width: 335px;
+height: 95px;
+text-align: left;
+margin-left: 150px;
+font-family: "Roboto", serif;
+
+}
+
+.imagine{
+
+	width: 77px;
+height: 77px;
+display: inline-block;
+float: left;
+margin-left: 23px;
+
+
+
+}
+
+.sata{
+	font-size: 20px;
+font-weight: 400;
+margin-top:21px ;
+display: inline-block;
+margin-top: 21px;
+margin-left: 23px;
+margin-bottom: 13px;
+font-family: "Roboto", serif;
+}
+
+#facebook{
+	width: 50px;
+height: 50px;
+margin-left: 52px;
+
+
+
+}
+
+#youtube{
+	width: 71px;
+height: 49px;
+
+
+}
+
+
+#xazi3{
+	width: 2px;
+	height: 50px;
+	background-color: #5012D5;
+	display: inline-block;
+	margin: 0px 50px;
+}
+
+
+
+	footer{
+		margin-top: 91px;
+		margin-left: 700px;
+	}
